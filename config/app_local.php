@@ -44,8 +44,8 @@ return [
              */
             //'port' => 'non_standard_port_number',
 
-            'username' => 'cakephp',
-            'password' => 'password',
+            'username' => 'cakephp2',
+            'password' => 'password2',
 
             'database' => 'products_manager',
             /*
